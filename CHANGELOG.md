@@ -8,7 +8,23 @@ the following form: YYYY.0M.0D.
 
 ## [Unreleased]
 
+## [2024.09.27]
+
+### Added
+
+- Added some kernel method
+- made a java file in src where I implemented all the kernel and secondary methods.
+
+### Changed
+
+-
+
+### Fixed
+
+### Removed
+
 ## [2024.08.07]
+## [2024.10.03]
 
 ### Added
 
